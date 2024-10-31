@@ -1,0 +1,28 @@
+@mixin clearfix{
+  &:after{
+    content: '';
+    clear: both;
+    float: none;
+    display: block;
+    height: 0;
+    visibility: hidden;
+  }
+}
+
+@mixin color_button($color: #f5f5f5, $background_color:#160857, $border_color:#120646){
+  color: $color !important;
+  padding: 5px 20px;
+  background: none;
+  background-color: $background_color;
+  border-color: $border_color;
+  border-radius: 10px;
+  display: inline-block;
+  min-width: 250px;
+  max-width: 100%;
+  text-shadow: none;
+  text-align: center;
+
+  &:hover{
+    color: $color !important;
+  }
+}

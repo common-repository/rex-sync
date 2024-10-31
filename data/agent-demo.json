@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "name": "",
+  "first_name": "",
+  "last_name": "",
+  "email_address": "",
+  "phone_direct": "",
+  "phone_mobile": "",
+  "position": "",
+  "is_account_user": "",
+  "profile_image": {
+    "uri": "",
+    "url": "",
+    "thumbs": {
+      "700x875": {
+        "uri": "",
+        "url": ""
+      },
+      "200x250": {
+        "uri": "",
+        "url": ""
+      }
+    }
+  }
+}

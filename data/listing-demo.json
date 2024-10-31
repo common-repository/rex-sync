@@ -1,0 +1,407 @@
+{
+  "property_id": "",
+  "system_listing_state": "",
+  "system_publication_timestamp": "",
+  "system_modtime": "",
+  "system_ctime": "",
+  "listing_category_id": "",
+  "price_advertise_as": "",
+  "price_match": "",
+  "price_match_rent_pa_inc_tax": null,
+  "price_match_sale": "",
+  "price_rent": null,
+  "price_rent_per_m2": null,
+  "price_est_rent_pw": null,
+  "price_bond": null,
+  "outgoings_annual": null,
+  "outgoings_rent_is_plus": null,
+  "state_value_price": null,
+  "state_value_price_display": "",
+  "state_date": null,
+  "state_hide_price": "",
+  "inbound_unique_id": null,
+  "available_from_date": null,
+  "authority_date_start": "",
+  "authority_date_expires": "",
+  "authority_duration_days": "",
+  "new_home": null,
+  "let_agreed": null,
+  "permit_number": null,
+  "parent_listing_id": null,
+  "under_contract": "",
+  "under_application": "",
+  "application_status": null,
+  "hold_status": null,
+  "hold_deposit_amount": null,
+  "property_category": "",
+  "business_name": null,
+  "ebrochure_link": "",
+  "ebrochure_custom_link": null,
+  "account": {
+    "id": "",
+    "name": "",
+    "country_id": "",
+    "country_region_id": "",
+    "timezone_id": ""
+  },
+  "location": {
+    "id": "",
+    "location_name": "",
+    "website": "",
+    "email": "",
+    "phone": "",
+    "fax": null,
+    "address_physical": "",
+    "report_color": "",
+    "logo_image": {
+      "url": "",
+      "thumbs": []
+    }
+  },
+  "project_stage": null,
+  "authority_type": "",
+  "exclusivity": null,
+  "price_rent_period": null,
+  "price_rent_tax": null,
+  "listing_agent_1": {
+    "id": "",
+    "name": "",
+    "first_name": "",
+    "last_name": "",
+    "email_address": "",
+    "phone_direct": null,
+    "phone_mobile": null,
+    "position": null,
+    "is_account_user": "",
+    "profile_image": null
+  },
+  "listing_agent_2": {
+    "id": "",
+    "name": "",
+    "first_name": "",
+    "last_name": "",
+    "email_address": "",
+    "phone_direct": null,
+    "phone_mobile": null,
+    "position": null,
+    "is_account_user": "",
+    "profile_image": null
+  },
+  "default_external_id": "",
+  "listing_category": "",
+  "listing_sale_or_rental": "",
+  "authority_type_id": "",
+  "project_listing_status": "",
+  "address": {
+    "latitude": "",
+    "longitude": "",
+    "unit_number": "",
+    "street_number": "",
+    "street_name": "",
+    "state_or_region": "",
+    "locality": null,
+    "suburb_or_town": "",
+    "postcode": "",
+    "country": "",
+    "estate_name": null,
+    "estate_stage": null,
+    "hide_address": "",
+    "building": {
+      "name": "",
+      "adr_street_number": "",
+      "adr_street_name": "",
+      "adr_suburb_or_town": "",
+      "adr_state_or_region": "",
+      "adr_locality": null,
+      "adr_postcode": "",
+      "adr_country": "",
+      "building_image": {
+        "uri": "",
+        "url": "",
+        "thumbs": {
+          "800x600": {
+            "uri": "",
+            "url": ""
+          },
+          "400x300": {
+            "uri": "",
+            "url": ""
+          },
+          "200x150": {
+            "uri": "",
+            "url": ""
+          },
+          "80x60": {
+            "uri": "",
+            "url": ""
+          }
+        }
+      },
+      "id": 0
+    },
+    "formats": {
+      "street_name_number": "",
+      "street_name_number_w_suburb": "",
+      "full_address": "",
+      "full_address_w_building_name": "",
+      "hidden_address": "",
+      "display_address": ""
+    }
+  },
+  "attributes": {
+    "bedrooms": "",
+    "bathrooms": "",
+    "ensuites": "",
+    "toilets": "",
+    "living_areas": "",
+    "garages": "",
+    "carports": "",
+    "open_spaces": "",
+    "total_car_accom": "",
+    "buildarea": "",
+    "buildarea_m2": "",
+    "landarea": "",
+    "landarea_m2": "",
+    "energy_rating": "",
+    "build_year": "",
+    "sleeps": null,
+    "roi_pa": null,
+    "takings": null,
+    "valuation_date": "",
+    "valuation_amount": "",
+    "valuation_land_amount": null,
+    "tenure_expiry_year": null,
+    "is_house_land": null,
+    "is_corner_block": null,
+    "is_franchise": null,
+    "land_depth_rear": null,
+    "land_depth_left": null,
+    "land_depth_right": null,
+    "land_frontage": null,
+    "buildarea_unit": "",
+    "landarea_unit": "",
+    "land_crossover": null,
+    "roof": "",
+    "exterior": "",
+    "whole_part": null,
+    "tenure": "",
+    "tenure_ground_rent": 0,
+    "tenure_ground_rent_review_year": 0,
+    "tenure_ground_rent_increase_percentage": 0,
+    "tenure_service_charge": 0,
+    "shared_ownership_percentage": 0,
+    "shared_ownership": "",
+    "shared_ownership_rent": 0,
+    "shared_ownership_rent_period": ""
+  },
+  "rural": [],
+  "contract": {
+    "status": "",
+    "date_accepted": "",
+    "date_settlement": null,
+    "date_unconditional": null,
+    "price": ""
+  },
+  "application": {
+    "date_communicated": null,
+    "date_accepted": null,
+    "offer_amount": null,
+    "offer_amount_period": null
+  },
+  "meta": {
+    "other_features": "",
+    "highlight_1": null,
+    "highlight_2": null,
+    "highlight_3": null,
+    "rates_business": "",
+    "rates_council_exempt": "",
+    "rates_council": "",
+    "rates_bodycorp": "",
+    "rates_water": "",
+    "rates_domestic": 0,
+    "parking_notes": null,
+    "zone": null
+  },
+  "tags": [
+    "Sample Property Tag"
+  ],
+  "features": [
+    "Air Conditioning",
+    "Secure Parking",
+    "Study"
+  ],
+  "views": [
+    "City",
+    "Valley"
+  ],
+  "idealfors": [
+    "Large Families"
+  ],
+  "allowances": [],
+  "events": [
+    {
+      "id": "",
+      "event_type": "",
+      "event_type_display": "",
+      "event_date": "",
+      "event_time_start": "",
+      "event_time_end": "",
+      "event_duration_minutes": "",
+      "event_datetime_start": "",
+      "event_datetime_end": "",
+      "event_agent": {
+        "id": "",
+        "name": "",
+        "first_name": "",
+        "last_name": "",
+        "email_address": "",
+        "phone_direct": null,
+        "phone_mobile": null,
+        "position": null,
+        "is_account_user": "",
+        "profile_image": null
+      },
+      "event_venue": null
+    },
+    {
+      "id": "",
+      "event_type": "",
+      "event_type_display": "",
+      "event_date": "",
+      "event_time_start": "",
+      "event_time_end": "",
+      "event_duration_minutes": "",
+      "event_datetime_start": "",
+      "event_datetime_end": "",
+      "event_agent": {
+        "id": "",
+        "name": "",
+        "first_name": "",
+        "last_name": "",
+        "email_address": "",
+        "phone_direct": null,
+        "phone_mobile": null,
+        "position": null,
+        "is_account_user": "",
+        "profile_image": null
+      },
+      "event_venue": null
+    },
+    {
+      "id": "",
+      "event_type": "",
+      "event_type_display": "",
+      "event_date": "",
+      "event_time_start": "",
+      "event_time_end": "",
+      "event_duration_minutes": "",
+      "event_datetime_start": "",
+      "event_datetime_end": "",
+      "event_agent": {
+        "id": "",
+        "name": "",
+        "first_name": "",
+        "last_name": "",
+        "email_address": "",
+        "phone_direct": null,
+        "phone_mobile": null,
+        "position": null,
+        "is_account_user": "",
+        "profile_image": null
+      },
+      "event_venue": null
+    },
+    {
+      "id": "",
+      "event_type": "",
+      "event_type_display": "",
+      "event_date": "",
+      "event_time_start": "",
+      "event_time_end": "",
+      "event_duration_minutes": "",
+      "event_datetime_start": "",
+      "event_datetime_end": "",
+      "event_agent": {
+        "id": "",
+        "name": "",
+        "first_name": "",
+        "last_name": "",
+        "email_address": "",
+        "phone_direct": null,
+        "phone_mobile": null,
+        "position": null,
+        "is_account_user": "",
+        "profile_image": null
+      },
+      "event_venue": ""
+    }
+  ],
+  "links": [
+    {
+      "link_type": "",
+      "link_url": ""
+    },
+    {
+      "link_type": "",
+      "link_url": ""
+    },
+    {
+      "link_type": "",
+      "link_url": ""
+    },
+    {
+      "link_type": "",
+      "link_url": ""
+    },
+    {
+      "link_type": "",
+      "link_url": ""
+    }
+  ],
+  "bookings": [],
+  "images": [
+    {
+      "url": "",
+      "thumbs": {
+        "800x600": "",
+        "400x300": "",
+        "200x150": "",
+        "80x60": ""
+      },
+      "modtime": "",
+      "dimensions": ""
+    }
+  ],
+  "floorplans": [
+    {
+      "url": "",
+      "thumbs": {
+        "800x800": "",
+        "400x400": "",
+        "800x600": "",
+        "80x60": ""
+      },
+      "modtime": "",
+      "dimensions": null
+    }
+  ],
+  "advert_internet": {
+    "heading": "",
+    "body": ""
+  },
+  "advert_brochure": {
+    "heading": "",
+    "body": ""
+  },
+  "advert_stocklist": {
+    "heading": "",
+    "body": ""
+  },
+  "documents": [],
+  "subcategories": [
+    "Unit"
+  ],
+  "custom_fields": [],
+  "etag": "",
+  "id": ""
+}
